@@ -5,6 +5,10 @@ VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeReg.View", "TimeReg.View\TimeReg.View.csproj", "{A1A2A625-ADFA-4106-9ED9-0314018673B1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeReg.ViewModel", "TimeReg.ViewModel\TimeReg.ViewModel.csproj", "{1870B8F4-B712-4087-900D-D6DF43D5BA1F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeReg.Model", "TimeReg.Model\TimeReg.Model.csproj", "{1152E19F-403E-458F-93D9-F5855AF5DD8E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{A1A2A625-ADFA-4106-9ED9-0314018673B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A1A2A625-ADFA-4106-9ED9-0314018673B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A1A2A625-ADFA-4106-9ED9-0314018673B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1870B8F4-B712-4087-900D-D6DF43D5BA1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1870B8F4-B712-4087-900D-D6DF43D5BA1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1870B8F4-B712-4087-900D-D6DF43D5BA1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1870B8F4-B712-4087-900D-D6DF43D5BA1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1152E19F-403E-458F-93D9-F5855AF5DD8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1152E19F-403E-458F-93D9-F5855AF5DD8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1152E19F-403E-458F-93D9-F5855AF5DD8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1152E19F-403E-458F-93D9-F5855AF5DD8E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
